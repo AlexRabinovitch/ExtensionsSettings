@@ -1,1 +1,1 @@
-# ExcensionsSettings
+# ExtensionsSettings
