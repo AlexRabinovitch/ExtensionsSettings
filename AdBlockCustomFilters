@@ -188,6 +188,8 @@ www.rbc.ru##DIV[class="subscription-popup__inner"]
 www.globes.co.il##DIV[class="col3 kidum carrouselRow"]
 www.gizmochina.com##DIV[id="cookie-law-info-bar"]
 oper.ru##DIV[class="likely likely-light likely_visible likely_ready"]
+lenta.ru##DIV[class="banner js-banner"]
+www.ynet.co.il##DIV[class="layoutItem yplus-promo-gallery"]
 ||rose.ixbt.com$domain=ixbt.com
 ||relap.io/$third-party
 ||connect.ok.ru$third-party
@@ -277,7 +279,6 @@ www.calcalist.co.il#DIV[id="siteOverlay"]
 ||themarker.com/*/_buildManifest.js$domain=themarker.com
 ||twitter.com/$domain=vilianov.com
 ||getpocket.com/$domain=vilianov.com
-||wp.com/$domain=vilianov.com
 ||facebook.com/*/plugins/share_button.php$domain=vilianov.com
 ||facebook.com/$domain=oper.ru
 ||vk.com/$domain=oper.ru
