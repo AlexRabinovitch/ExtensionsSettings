@@ -188,8 +188,10 @@ www.rbc.ru##DIV[class="subscription-popup__inner"]
 www.globes.co.il##DIV[class="col3 kidum carrouselRow"]
 www.gizmochina.com##DIV[id="cookie-law-info-bar"]
 oper.ru##DIV[class="likely likely-light likely_visible likely_ready"]
-lenta.ru##DIV[class="banner js-banner"]
 www.ynet.co.il##DIV[class="layoutItem yplus-promo-gallery"]
+oper.ru##DIV[style="width: 100%; height: 245px; min-width: 1200px; text-align: center;"]
+oper.ru##DIV[style="width: 100%; height: 275px; min-width: 1200px; text-align: center;"]
+rus.postimees.ee##DIV[class="root structured-content__group structured-content__group--commercial"]
 ||rose.ixbt.com$domain=ixbt.com
 ||relap.io/$third-party
 ||connect.ok.ru$third-party
@@ -279,9 +281,9 @@ www.calcalist.co.il#DIV[id="siteOverlay"]
 ||themarker.com/*/_buildManifest.js$domain=themarker.com
 ||twitter.com/$domain=vilianov.com
 ||getpocket.com/$domain=vilianov.com
+||wp.com/$domain=vilianov.com
 ||facebook.com/*/plugins/share_button.php$domain=vilianov.com
 ||facebook.com/$domain=oper.ru
-||vk.com/$domain=oper.ru
 ||facebook.net/$domain=oper.ru
 ||mc.yandex.ru/$domain=oper.ru
 ||informer.yandex.ru/$domain=oper.ru
@@ -399,3 +401,18 @@ www.calcalist.co.il#DIV[id="siteOverlay"]
 ||utarget.ru/$domain=udaff.com
 ||rambler.ru$domain=gazeta.ru
 ||rambler.pushwoosh.com/$domain=gazeta.ru
+||zap.co.il/js/newui/googleevents.js$domain=zap.co.il
+||accounts.google.com/gsi/client$third-party
+||pmo.ee/$domain=postimees.ee
+www.zr.ru##DIV[id="BN36"][class="banner header_banner ancestor_no_icon"]
+www.ynet.co.il##DIV[class="layoutItem radio-homepage-player"]
+autoreview.ru##A[class="rastyagka"]
+www.ynet.co.il##DIV[class="layoutItem iframe-script"]
+||ebay.com/fol/update$domain=ebay.com
+www.calcalist.co.il##DIV[class="grecaptcha-badge"]
+www.ynet.co.il##BUTTON[id="INDmenu-btn-fixed"][class="accessibiltyFixedBtn"]
+||kaltura.com/$domain=ynet.co.il
+||jwpsrv.com/$domain=anandtech.com
+||jwpcdn.com/$domain=anandtech.com
+www.anandtech.com##DIV[class="jw-error jw-reset"]
+www.anandtech.com##DIV[id="taboola-mid-article"]
