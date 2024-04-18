@@ -443,6 +443,7 @@ oper.ru##DIV[style="width: 100%; height: 395px; min-width: 1200px; text-align: c
 ||backstory.ebay.com/customer/$domain=ebay.com
 ||ejxosoryso.ru/$domain=flibusta.site
 ||maxrilla.com/$domain=flibusta.site
+www.ynet.co.il##IFRAME[src="https://interactive.ynet.co.il/rkybym/whatsapp-banner?src=embed"]
 www.newsru.co.il##DIV[id="HP_top2"]
 www.newsru.co.il##DIV[id="HP_top3"][class="HP_top3"]
 www.newsru.co.il##DIV[id="israel_ads"][class="HP_rightIN"]
@@ -465,4 +466,5 @@ www.newsru.co.il##DIV[id="rest_ads"]
 www.newsru.co.il##DIV[id="jtradition_ads"]
 www.newsru.co.il##DIV[class="HP_rightIN"]
 www.ynet.co.il##DIV[class="layoutItem ynet-video-vertical-1280"]
-www.ynet.co.il##IFRAME[src="https://interactive.ynet.co.il/rkybym/whatsapp-banner?src=embed"]
+www.globes.co.il##DIV[class="gr bgColor magazineG"]
+www.globes.co.il##H2[class="madorWeekend"]
