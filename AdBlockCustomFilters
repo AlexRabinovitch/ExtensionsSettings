@@ -249,6 +249,12 @@ www.ynet.co.il##DIV[class="layoutItem ynet-video-vertical-1280"]
 www.globes.co.il##DIV[class="gr bgColor magazineG"]
 www.globes.co.il##H2[class="madorWeekend"]
 www.ynet.co.il##IFRAME[src="https://w.ynet.co.il/iframes/ycar"]
+www.newsru.co.il##DIV[class="N_ARTICLE_5_D"]
+www.newsru.co.il##DIV[class="main--single--article--content--links--social"]
+www.globes.co.il##DIV[class="compBanner"]
+www.newsru.co.il##DIV[id="section_top1"][class="section_top_con"]
+||interactive.ynet.co.il/*/whatsapp-banner$domain=ynet.co.il
+rutracker.org##DIV[id="bn-top-right"]
 ||rose.ixbt.com$domain=ixbt.com
 ||relap.io/$third-party
 ||connect.ok.ru$third-party
@@ -474,8 +480,3 @@ www.calcalist.co.il#DIV[id="siteOverlay"]
 ||sftfsihfd.ru/$domain=flibusta.site
 ||sheisnotateacher.com/$domain=kinozal.tv
 ||bjiuck.com/$domain=kinozal.tv
-www.newsru.co.il##DIV[class="main--single--article--content--links--social"]
-www.globes.co.il##DIV[class="compBanner"]
-www.newsru.co.il##DIV[class="N_ARTICLE_5_D"]
-www.newsru.co.il##DIV[id="section_top1"][class="section_top_con"]
-||interactive.ynet.co.il/*/whatsapp-banner$domain=ynet.co.il
