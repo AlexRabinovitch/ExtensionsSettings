@@ -480,6 +480,8 @@ www.ynet.co.il##IFRAME[src="https://w.ynet.co.il/iframes/ycar"]
 ||xnet.co.il/$domain=ynet.co.il
 www.newsru.co.il##DIV[id="HP_top1"][class="HP_top1"]
 oper.ru##DIV[style="width: 100%; height: 265px; min-width: 1200px; text-align: center;"]
+www.ynet.co.il##DIV[class="layoutItem multi-articles-weekend"]
+www.ynet.co.il##DIV[ class="MultiArticleWeekendComponenta"]
 ||firstimpression.io/$domain=ynet.co.il
 ||cxense.com/$domain=ynet.co.il
 ||adservice.google.com/$domain=ynet.co.il
