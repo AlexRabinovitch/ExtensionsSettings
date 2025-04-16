@@ -481,7 +481,6 @@ www.ynet.co.il##IFRAME[src="https://w.ynet.co.il/iframes/ycar"]
 www.newsru.co.il##DIV[id="HP_top1"][class="HP_top1"]
 oper.ru##DIV[style="width: 100%; height: 265px; min-width: 1200px; text-align: center;"]
 www.ynet.co.il##DIV[class="layoutItem multi-articles-weekend"]
-www.ynet.co.il##DIV[ class="MultiArticleWeekendComponenta"]
 ||firstimpression.io/$domain=ynet.co.il
 ||cxense.com/$domain=ynet.co.il
 ||adservice.google.com/$domain=ynet.co.il
@@ -491,3 +490,5 @@ www.ynet.co.il##DIV[ class="MultiArticleWeekendComponenta"]
 ||vasgenerete.site/$domain=flibusta.ie
 ||wpadmngr.com/$domain=flibusta.ie
 ||bgrtarc.ru/$domain=flibusta.ie
+www.ynet.co.il##DIV[class="MultiArticleWeekendComponenta"]
+www.ynet.co.il##IFRAME[style="border: medium; width: 100%; margin-bottom: 20px;"]
